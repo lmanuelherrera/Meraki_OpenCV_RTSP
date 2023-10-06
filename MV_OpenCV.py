@@ -8,7 +8,7 @@ import configparser
 import time
 import numpy as np
 import imutils
-import cv2
+import cv2 #pip install opencv-python
 import paho.mqtt.client as mqttClient
 
 ### Gather configuration parameters
